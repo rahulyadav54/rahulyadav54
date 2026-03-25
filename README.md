@@ -56,7 +56,10 @@ MongoDB | MySQL | Firebase
 ## 📜 Certifications
 - AWS Certified
 - FreeCodeCamp
-
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 
 <!--
 **rahulyadav54/rahulyadav54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
