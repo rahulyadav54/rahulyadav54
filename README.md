@@ -1,19 +1,33 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar Yadav</h1>
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 💼 Freelancer</h3>
+<h3 align="center">🚀 Founder & CEO @ Zaya Code Hub | 🤖 AI Developer | 💼 Full Stack Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Building+Real+World+Projects;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Founder+%26+CEO+Zaya+Code+Hub;Hackathon+Winner+🏆;AI+%26+Full+Stack+Developer;Building+Real+World+Products;Always+Learning+🚀" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 CSE Student (AI & ML)
-- 💻 Building Full Stack Android App/ Web App
-- 🤖 Exploring AI, Automation & Chatbots
-- 🚀 Founder / Freelancer mindset
-- ⚡ Always learning & shipping fast
+- 🎓 CSE (AI & ML) Student  
+- 🚀 Founder & CEO of **Zaya Code Hub**  
+- 🤖 Built powerful AI-based applications & automation systems  
+- 📱 Developed Android app **AI ZAYA**  
+- 🏆 Hackathon Winner (National & College Level)  
+- 🎤 Organized **12-Hour Hackathon** at Sona College of Technology  
+- 🌐 Ranked presence on Google Profile  
+- ⚡ Always building, scaling, and innovating  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner of **VERBATHON**
+- 🥇 Winner of **SPARK'24**
+- 🥇 Winner of **MULTIMEDIA HACKATHON**
+- 🥇 Winner of **VIBATHON**
+- 🎤 Organized a **12-hour Hackathon Event** in college
+- 🚀 Built multiple real-world AI systems and startups
 
 ---
 
@@ -72,20 +86,6 @@
 
 ---
 
-### 💳 Payments & Automation
-![Stripe](https://img.shields.io/badge/Stripe-purple?style=for-the-badge&logo=stripe)
-![Razorpay](https://img.shields.io/badge/Razorpay-blue?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-red?style=for-the-badge)
-
----
-
-### 🔐 Security
-![OAuth](https://img.shields.io/badge/OAuth-black?style=for-the-badge)
-![HTTPS](https://img.shields.io/badge/HTTPS-green?style=for-the-badge)
-![CORS](https://img.shields.io/badge/CORS-orange?style=for-the-badge)
-
----
-
 ### 🤖 AI / ML
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
 ![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
@@ -94,17 +94,12 @@
 
 ---
 
-### ⚙️ DevOps
+### ⚙️ DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHubActions-black?style=for-the-badge&logo=githubactions)
 ![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
-
----
-
-### 🚀 Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-green?style=for-the-badge&logo=netlify)
-![Railway](https://img.shields.io/badge/Railway-purple?style=for-the-badge)
 
 ---
 
@@ -125,7 +120,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=1&column=6" />
@@ -133,20 +128,25 @@
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-- 🚀 AI Chatbot Platform  
-- 🏨 Hotel Booking System  
+- 🤖 **AI ZAYA** – Advanced AI-powered Android assistant app  
+- 🏫 **AI Smart School/College Management System**  
+- ❤️ **Couple Space** – Private communication & memory app  
+- 🧠 **Fatty Liver Detection System (AI-based)**  
+- 🏨 Hotel Booking Management System  
 - 🅿️ Parking Management System  
 - 🎓 College Admission Portal  
-- 💳 Payment Integration System  
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Internships
 
-- 🎓 Responsive Web Design — freeCodeCamp  
-- ☁️ AWS Generative AI Foundations  
+- 💼 Intern at **Bluestock Fintech**  
+- 💼 Intern at **CodeAlpha**  
+- 🍃 MongoDB Database Certification  
+- 📢 Google Ads Apps Certification  
+- 🌏 Deloitte Australia Virtual Experience  
 
 ---
 
@@ -160,7 +160,7 @@
 
 ## 🎯 Currently Learning
 
-- 📚 Data Structures & Algorithms / Kotlin  / java
+- 📚 Data Structures & Algorithms  
 - 🧠 System Design  
 - 🤖 Advanced AI Agents  
 
@@ -168,10 +168,10 @@
 
 ## 💡 Fun Fact
 
-⚡ I build real-world projects faster than tutorials 😎
+⚡ I build real-world startups & AI systems faster than most people finish tutorials 😎  
 
 ---
 
 <p align="center">
-  ⭐ Don't forget to star repositories you like!
+  ⭐ If you like my work, consider giving a star!
 </p>
