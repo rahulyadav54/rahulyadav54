@@ -62,7 +62,9 @@ MongoDB | MySQL | Firebase
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 
 <!--
-**rahulyadav54/rahulyadav54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**r<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;AI+Engineer;Freelancer" />
+</p>ahulyadav54/rahulyadav54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
