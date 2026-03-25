@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
+<h1 align="center">Hi 👋, I'm Rahul Kumar Yadav</h1>
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 💼 Freelancer</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 - 🎓 CSE Student (AI & ML)
-- 💻 Building Full Stack Web Apps
+- 💻 Building Full Stack Android App/ Web App
 - 🤖 Exploring AI, Automation & Chatbots
 - 🚀 Founder / Freelancer mindset
 - ⚡ Always learning & shipping fast
@@ -160,7 +160,7 @@
 
 ## 🎯 Currently Learning
 
-- 📚 Data Structures & Algorithms  
+- 📚 Data Structures & Algorithms / Kotlin  / java
 - 🧠 System Design  
 - 🤖 Advanced AI Agents  
 
