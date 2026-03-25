@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar Yadav</h1>
-<h3 align="center">🚀 Founder & CEO @ Zaya Code Hub | 🤖 AI Developer | 💼 Full Stack Engineer</h3>
+<h3 align="center">🚀 Founder & CEO @ ZAYA CODE HUB | 🤖 AI Developer | 💼 Full Stack Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Founder+%26+CEO+Zaya+Code+Hub;Hackathon+Winner+🏆;AI+%26+Full+Stack+Developer;Building+Real+World+Products;Always+Learning+🚀" />
