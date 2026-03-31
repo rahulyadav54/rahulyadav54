@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Founder & CEO @ ZAYA CODE HUB | 🤖UI/UX DEVELOPER | 💼 Full Stack DEVELOPER</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Founder+%26+CEO+Zaya+Code+Hub;Hackathon+Winner+🏆;AI+%26+Full+Stack+Developer;Building+Real+World+Products;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&wid1000&lines=Founder+%26+CEO+Zaya+Code+Hub;Hackathon+Winner+🏆;AI+%26+Full+Stack+Developer;Building+Real+World+Products;Always+Learning+🚀" />
 </p>
 
 ---
